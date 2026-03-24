@@ -118,7 +118,7 @@ This dashboard helps stakeholders to:
 [Project Performance.png](https://github.com/Parul13github/Real-Estate-Insights-Dashboard_Tableau/blob/main/Performance.png)
 
 ### Sales Reps Performance  
-![Sales Reps](Dashboard%20Screenshots/Sales%20Reps%20Performance.png)
+[Sales Reps.png](https://github.com/Parul13github/Real-Estate-Insights-Dashboard_Tableau/blob/main/Sales%20Rep.png)
 
 ### Sales Trends  
 ![Trends](Dashboard%20Screenshots/Sales%20Trends.png)
