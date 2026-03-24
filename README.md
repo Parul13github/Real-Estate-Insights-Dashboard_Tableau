@@ -104,8 +104,8 @@ This dashboard helps stakeholders to:
 ## Tools & Technologies  
 
 - **Tableau** – Data Visualization  
-- **SAP** – Data Extraction & Transformation  
-- **Excel** – Data Cleaning & Preparation  
+- **SAP & Excel** – Data Extraction & Transformation  
+- **Tableau Prep** – Data Cleaning & Preparation  
 
 ---
 
