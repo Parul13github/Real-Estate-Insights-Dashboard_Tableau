@@ -104,7 +104,7 @@ This dashboard helps stakeholders to:
 ## Tools & Technologies  
 
 - **Tableau** – Data Visualization  
-- **SQL** – Data Extraction & Transformation  
+- **SAP** – Data Extraction & Transformation  
 - **Excel** – Data Cleaning & Preparation  
 
 ---
@@ -121,7 +121,7 @@ This dashboard helps stakeholders to:
 [Sales Reps.png](https://github.com/Parul13github/Real-Estate-Insights-Dashboard_Tableau/blob/main/Sales%20Rep.png)
 
 ### Sales Trends  
-![Trends](Dashboard%20Screenshots/Sales%20Trends.png)
+[Trends.png](https://github.com/Parul13github/Real-Estate-Insights-Dashboard_Tableau/blob/main/Trend.png)
 
 ---
 
