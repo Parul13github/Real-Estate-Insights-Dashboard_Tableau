@@ -112,7 +112,7 @@ This dashboard helps stakeholders to:
 ## Dashboard Preview  
 
 ### Overview  
-![Overview](Dashboard%20Screenshots/Overview.png)
+[Overview.png)](https://github.com/Parul13github/Real-Estate-Insights-Dashboard_Tableau/blob/main/Overview.png)
 
 ### Project Performance  
 ![Project Performance](Dashboard%20Screenshots/Project%20Performance.png)
